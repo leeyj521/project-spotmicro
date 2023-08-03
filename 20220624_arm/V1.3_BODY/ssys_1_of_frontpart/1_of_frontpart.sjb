@@ -1,0 +1,6 @@
+# Product version 15.12
+# Build version 3631
+setVersionVar currentJobCore "1_of_frontpart";
+setVersionVar stlDirectory "W:/샘플제작2022/3dpage/SpotMicroJetson-master/20220624_arm/V1.3_BODY";
+setVersionVar stlPath "W:/샘플제작2022/3dpage/SpotMicroJetson-master/20220624_arm/V1.3_BODY/1_of_frontpart.stl";
+setVersionVar toolpathFile "1_of_frontpart.cmb";

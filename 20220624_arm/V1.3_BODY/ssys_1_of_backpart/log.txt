@@ -1,0 +1,55 @@
+session {6/26 7:20:34am > Administrator opened job C:/ProgramData/Stratasys/FDMControlCenter/15.12/jobs/Administrator79182fae22e2488236064ece/Default.sjb.  Insight 15.12 (3631).}
+msg {7:20:35am > Read 1396 facets in 0:00 from "W:/샘플제작2022/3dpage/SpotMicroJetson-master/20220624_arm/V1.3_BODY/1_of_backpart.stl"}
+msg {7:20:35am > STL comment: COLOR=    ,MATERIAL=               A;SOLID}
+msg {7:20:35am > Bounding box of this STL X, Y, Z:}
+msg {7:20:35am >       min = (-47.0028, -1.6084, -28.5191)}
+msg {7:20:35am >       max = (132.9972, 112.3917, 13.9809)}
+msg {7:20:36am > Done loading STL file after 1 sec.}
+msg {7:20:57am > 	Slice height:	0.2540}
+msg {7:20:57am > Done slicing.}
+msg {7:20:57am > Supports removed}
+msg {7:20:57am > 	Support style:	SMART}
+msg {7:20:58am > Inspecting part curves}
+msg {7:20:58am > Generating supports}
+msg {7:20:58am > Supports removed}
+msg {7:20:58am > Supports removed}
+msg {7:20:58am > Generating supports canceled by user.}
+msg {7:20:58am > Supports removed}
+msg {7:21:19am > Supports removed}
+msg {7:21:19am > 	Support style:	SMART}
+msg {7:21:19am > Inspecting part curves}
+msg {7:21:19am > Generating supports}
+msg {7:21:21am > Done generating supports.}
+msg {7:21:21am > Num base 10 layers. Max height }
+msg {7:21:22am > Done writing boundary curves after 1 sec.}
+msg {7:21:22am > Saved job:  W:/샘플제작2022/3dpage/SpotMicroJetson-master/20220624_arm/V1.3_BODY/ssys_1_of_backpart/1_of_backpart.sjb}
+msg {7:21:22am > 	Part fill style:	Multiple contours}
+msg {7:21:22am > 	Part interior style:	Sparse - low density}
+msg {7:21:22am > 	Contour width:	0.5306}
+msg {7:21:22am > 	Part raster width:	0.5080}
+msg {7:21:24am > Done generating toolpaths after 1 sec.}
+msg {7:21:24am > CMB moved to envelope center.}
+msg {7:21:25am > Toolpath Information}
+msg {7:21:25am > 	Est. build time:	3 hr 34 min }
+msg {7:21:25am > 	Model material:	48.915 cm�}
+msg {7:21:25am > 	Support material:	25.559 cm�}
+msg {7:21:25am > Done writing CMB file after 1 sec.}
+msg {7:21:25am > Job Summary}
+msg {7:21:25am > 	Full job path:	W:/샘플제작2022/3dpage/SpotMicroJetson-master/20220624_arm/V1.3_BODY/ssys_1_of_backpart/1_of_backpart.sjb}
+msg {7:21:25am > 	Toolpath file name:	1_of_backpart.cmb}
+msg {7:21:25am > 	Modeler:		Fortus 250mc}
+msg {7:21:25am > 	Est. build time:	3 hr 34 min }
+msg {7:21:25am > 	Model material:	48.915 cm�,	T14,	ABS P430}
+msg {7:21:25am > 	Support material:	25.559 cm�,	T16,	ABS SR30}
+msg {7:21:25am > 	Slice height:	0.2540}
+msg {7:21:25am > 	Part fill style:	Multiple contours}
+msg {7:21:25am > 	Part interior style:	Sparse - low density}
+msg {7:21:25am > 	Visible surface style:	Enhanced}
+msg {7:21:25am > 	Support style:	SMART}
+msg {7:21:25am > 	Contour width:	0.5080}
+msg {7:21:25am > 	Number of contours (total):	2}
+msg {7:21:25am > 	Part interior contours:	0.3810}
+msg {7:21:25am > 	Part raster width:	0.5080}
+msg {7:21:25am > 	Application:	Insight 15.12, Build version: 3631}
+msg {7:21:25am > Saved job:  W:/샘플제작2022/3dpage/SpotMicroJetson-master/20220624_arm/V1.3_BODY/ssys_1_of_backpart/1_of_backpart.sjb,  approximate build time 3 hr 34 min }
+session {6/26 7:21:36am > Administrator closed job.}
